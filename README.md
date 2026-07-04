@@ -1,2 +1,17 @@
-# Zomato-Order-Restaurant-Analysis-Using-Power-BI
-Zomato Order &amp; Restaurant Analysis using SQL and Power BI — uncovering customer trends, restaurant performance, and location-based insights through interactive dashboards.
+# Pavithra Jeyaraman
+## Data Analyst | SQL | Python | Power BI | Tableau
+
+### About Me
+Results-driven Data Analyst with experience in
+reporting, dashboards, and business insights.
+
+### Skills
+- SQL (Advanced)
+- Python (Pandas, NumPy)
+- Power BI & Tableau
+- Data Reporting & Analysis
+
+### Projects
+- Zomato order restaurant analysis using Power BI
+- AI Smart Note Taker
+- AI Interview Helper
